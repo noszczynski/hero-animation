@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2398e0d-6568-4a62-9a59-7cdd696f1f6f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZB5tbTJUuvFNn0yLt0WRvY1dzB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2398e0d-6568-4a62-9a59-7cdd696f1f6f" name="Default Changelist" comment="" />
+      <created>1584299861743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584299861743</updated>
+      <workItem from="1584299865901" duration="2329000" />
+      <workItem from="1584302206470" duration="4495000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-952" y="404" key="#File_Watchers" timestamp="1584302432330">
+      <screen x="-1080" y="-232" width="1080" height="1880" />
+    </state>
+    <state x="-952" y="404" key="#File_Watchers/62.0.1858.1080/-1080.-232.1080.1880@-1080.-232.1080.1880" timestamp="1584302432330" />
+    <state x="307" y="338" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584301260864">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="307" y="338" key="#com.intellij.fileTypes.FileTypeChooser/62.0.1858.1080/-1080.-232.1080.1880@62.0.1858.1080" timestamp="1584301260864" />
+    <state x="721" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584299892987">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="721" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1858.1080/-1080.-232.1080.1880@62.0.1858.1080" timestamp="1584299892987" />
+    <state x="-877" y="518" width="665" height="703" key="EditFileWatcherDialog" timestamp="1584302536352">
+      <screen x="-1080" y="-232" width="1080" height="1880" />
+    </state>
+    <state x="-877" y="518" width="665" height="703" key="EditFileWatcherDialog/62.0.1858.1080/-1080.-232.1080.1880@-1080.-232.1080.1880" timestamp="1584302536352" />
+    <state x="-598" y="510" key="FileChooserDialogImpl" timestamp="1584302400776">
+      <screen x="-1080" y="-232" width="1080" height="1880" />
+    </state>
+    <state x="-598" y="510" key="FileChooserDialogImpl/62.0.1858.1080/-1080.-232.1080.1880@-1080.-232.1080.1880" timestamp="1584302400776" />
+    <state x="-1043" y="388" key="SettingsEditor" timestamp="1584302537006">
+      <screen x="-1080" y="-232" width="1080" height="1880" />
+    </state>
+    <state x="-1043" y="388" key="SettingsEditor/62.0.1858.1080/-1080.-232.1080.1880@-1080.-232.1080.1880" timestamp="1584302537006" />
+    <state x="-860" y="433" width="627" height="852" key="find.popup" timestamp="1584304915924">
+      <screen x="-1080" y="-232" width="1080" height="1880" />
+    </state>
+    <state x="-860" y="433" width="627" height="852" key="find.popup/62.0.1858.1080/-1080.-232.1080.1880@-1080.-232.1080.1880" timestamp="1584304915924" />
+  </component>
+</project>
